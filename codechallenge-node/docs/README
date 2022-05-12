@@ -1,0 +1,14 @@
+-No he podido crear la base de datos por falta de tiempo, en su lugar he creado un modulo de service.js
+donde almaceno algunos usuarios los cuales puedo recuperar con funciones
+
+-No dispongo de un servidor donde pudiera desplegar la app.
+
+-A la hora de usar el validado automatico he tenido que convertir Swagger a open Api version 3.0.1, ya que
+en versiones anteriores se produce un error.
+
+-Tambien he añadido libreria 'helmet' para añadir seguridad al servidor. 
+
+### Para correr el servidor
+```
+npm start
+...

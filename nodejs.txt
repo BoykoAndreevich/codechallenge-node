@@ -1,0 +1,22 @@
+https://ichi.pro/es/documentacion-de-api-automatica-en-node-js-con-swagger-243106755084932
+
+https://www.npmjs.com/package/swagger-ui-express
+
+https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+
+Array.prototype.find()
+
+const array1 = [5, 12, 8, 130, 44];
+
+const found = array1.find(element => element > 10);
+
+console.log(found);
+// expected output: 12
+
+https://giters.com/supercoffee/express-openapi-validator
+
+https://ichi.pro/es/parte-2-enrutamiento-rapido-con-open-api-3-0-y-swagger-ui-editor-109141658532430
+
+
+https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed3/blob/master/teoria/clase23.md
